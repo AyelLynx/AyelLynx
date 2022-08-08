@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/849790.gif">
 - 🌱 I’m currently learning **network admin**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: razangel0123@gmail.com</h3>
 <p align="left">
 </p>
 
