@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lynx!</h1>
 <h3 align="center">A student currently taking for NETAD-BSIT</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7931e97031b430d11b23dfb4a5ca6713/df1a98e7c47a2bff-70/s640x960/26aef91dd548ae2cb09903fe25908ed14d13f267.gifv">
+<img align="center" alt="Coding" width="400" src="https://64.media.tumblr.com/7931e97031b430d11b23dfb4a5ca6713/df1a98e7c47a2bff-70/s640x960/26aef91dd548ae2cb09903fe25908ed14d13f267.gifv">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayellynx" alt="ayellynx" /></a> </p>
 
