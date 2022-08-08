@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayellynx" alt="ayellynx" /></a> </p>
 
-- 🌱 I’m currently learning **network admin**
+- 🌱 I’m currently learning **Network Administration**
 
 <h3 align="left">Connect with me: razangel0123@gmail.com</h3>
 <p align="left">
