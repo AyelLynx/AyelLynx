@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lynx!</h1>
 <h3 align="center">A student currently taking for NETAD-BSIT</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-computer-error-laptop-eGx2WjCngw3Iq9gd6k">
+<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/849790.gif">
 - 🌱 I’m currently learning **network admin**
 
 <h3 align="left">Connect with me:</h3>
