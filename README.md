@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Network Administration**
 
-<h3 align="left">Connect with me: razangel0123@gmail.com</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
